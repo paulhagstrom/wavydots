@@ -48,5 +48,5 @@ you get when you run WAVEWALK, the main "demo" program.
 
 So, this is very much an early proof-of-concept. I'd like to prove more impressive concepts in this direction.
 One potential downside here is that it might look kind of cool, briefly, and then trigger migraines at minute
-3 of gameplay.  Which would reduce the funness of game a bit.  But apart from that, this seems like an
+3 of gameplay.  Which would reduce the funness of the game slightly.  But apart from that, this seems like an
 interesting way around the graphics and processing limitations imposed by the Apple II.
