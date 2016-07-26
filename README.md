@@ -2,8 +2,11 @@ Wavydots
 ========
 
 KansasFest 2016, HackFest entry
+
 (Ranking: "Participant")
-Paul Hagstrom
+
+Paul Hagstrom, July 2016
+
 
 This is kind of nothing as of v1.0 (though I got an incredibly good prize for my "participant" placing!),
 but here's the story.  I kind of like the idea at least, even if I didn't get that far into it at KFest.
