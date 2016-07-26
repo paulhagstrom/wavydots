@@ -35,7 +35,7 @@ just re-generating the WAVEYDOTS.PIC that's already on the disk image.
 
 I think the image can probably be improved.  First of all, it could be made smoother, possibly by hand.
 I tried a couple of different color combinations (red on blue, blue on red, green on purple) but the best
-effect did seem to be blue on green.  Further experimentation might be interesting, though.
+effect did seem to be purple on green.  Further experimentation might be interesting, though.
 
 I had intended at this point to make some kind of ocean-based game, and even if possible dig a bit deeper
 into what triggers the illusion so that I could kind of force the eye to track in a way that would
